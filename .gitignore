@@ -1,0 +1,35 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+r.bat
+
+aiai-dispatcher
+aiai-processor/**
+aiai-processor-h2/**
+aiai-launchpad
+*_V2.class
+*_V3.class
+config
+
+hs_err_pid*.log
