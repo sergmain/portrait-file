@@ -1,5 +1,6 @@
 * -text
 
+*.log           text
 *.cls           text
 *.frm           text
 *.bas           text
@@ -29,7 +30,10 @@ mvnw            text
 
 
 # These files are binary and should be left untouched
-*.frx         binary
+*.docx         binary
+*.doc          binary
+*.xls          binary
+*.xlsx         binary
 *.class         binary
 *.jar           binary
 *.gif           binary
