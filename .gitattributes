@@ -30,6 +30,7 @@ mvnw            text
 
 
 # These files are binary and should be left untouched
+*.zip          binary
 *.docx         binary
 *.doc          binary
 *.xls          binary
